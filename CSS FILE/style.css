@@ -1,0 +1,35 @@
+.blok{
+    background-color: rgb(54, 173, 173);
+    border: 10px solid rgb(231, 231, 86);
+    
+    border-radius: 15px ;
+    width:50%;
+    height: 450px;
+    margin:50px auto;
+    padding: 20px;
+    
+ 
+}
+h1{
+text-align: center;
+}
+.author-name{
+    color: crimson;
+}
+.blok-1{
+    
+  
+    text-align:center;
+}
+.blok-title{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2em;
+    font-weight: 900;
+}
+.blok p{
+    font-size: 20px;
+    text-align: justify;
+    color:rgb(116, 3, 3) ;
+
+}
